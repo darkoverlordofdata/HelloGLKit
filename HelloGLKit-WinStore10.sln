@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 15.0.26206.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloGLKit", "HelloGLKit", "{E987738E-CBB4-4E15-A2F9-CDDD7856D8B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloGLKit", "HelloGLKit.vsimporter\HelloGLKit-WinStore10\HelloGLKit.vcxproj", "{CF760FFF-4CA8-417C-8A02-607E07474CD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9A0AFD2-0783-47BB-AE5A-9190E446654B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|ARM.Build.0 = Debug|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|Win32.Build.0 = Debug|Win32
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Debug|Win32.Deploy.0 = Debug|Win32
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|ARM.ActiveCfg = Release|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|ARM.Build.0 = Release|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|ARM.Deploy.0 = Release|ARM
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|Win32.ActiveCfg = Release|Win32
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|Win32.Build.0 = Release|Win32
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF760FFF-4CA8-417C-8A02-607E07474CD2} = {E987738E-CBB4-4E15-A2F9-CDDD7856D8B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C533E3A-11ED-42AF-8CA0-1A5906FF6D12}
+	EndGlobalSection
+EndGlobal
